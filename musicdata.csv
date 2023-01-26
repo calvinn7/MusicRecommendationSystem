@@ -1,0 +1,467 @@
+Title,Artist,Genre,Year,Beats_Per_Minute,Energy,Danceability,Liveness,Valence,Duration,Acousticness,Popularity
+Titanium (feat. Sia),David Guetta,Pop,2012,126,79,60,13,30,245,7,80
+Locked Out of Heaven,Bruno Mars,Pop,2012,144,70,73,31,87,233,5,79
+Paradise,Coldplay,Permanent Wave,2012,140,59,45,8,20,279,5,79
+Payphone,Maroon 5,Pop,2012,110,75,74,29,55,231,2,79
+What Makes You Beautiful,One Direction,Boy Band,2012,125,79,73,6,89,200,1,78
+I Knew You Were Trouble.,Taylor Swift,Pop,2012,77,47,62,3,68,220,0,77
+Call Me Maybe,Carly Rae Jepsen,Pop,2012,120,58,78,11,66,193,1,76
+Love You Like A Love Song,Selena Gomez & The Scene,Pop,2012,117,68,86,7,92,188,8,76
+Set Fire to the Rain,Adele,British Soul,2012,108,68,61,13,47,242,0,76
+We Are Never Ever Getting Back Together,Taylor Swift,Pop,2012,86,68,63,12,75,193,1,75
+Stronger (What Doesn't Kill You),Kelly Clarkson,Pop,2012,116,94,56,11,68,222,5,74
+Try,P!nk,Pop,2012,104,63,67,9,55,248,0,74
+Starships,Nicki Minaj,Pop,2012,125,72,75,25,75,211,14,73
+One More Night,Maroon 5,Pop,2012,93,82,72,8,62,220,6,73
+Good Time,Owl City,Pop,2012,126,87,56,37,68,206,2,73
+Glad You Came,The Wanted,Boy Band,2012,127,85,72,11,45,198,3,72
+Beauty And A Beat,Justin Bieber,Pop,2012,128,84,60,7,53,228,0,72
+International Love,Pitbull,Pop,2012,120,86,67,34,65,227,1,72
+Some Nights,fun.,Pop,2012,108,74,67,9,39,277,2,72
+Boyfriend,Justin Bieber,Pop,2012,97,55,72,13,33,171,4,71
+Part Of Me,Katy Perry,Pop,2012,130,92,68,7,77,216,0,71
+Domino,Jessie J,Pop,2012,127,55,76,4,78,232,1,69
+Where Have You Been,Rihanna,Pop,2012,128,85,72,22,44,243,0,68
+Wide Awake,Katy Perry,Pop,2012,160,68,51,39,57,221,7,68
+The One That Got Away,Katy Perry,Pop,2012,134,80,69,16,88,227,0,67
+Dance Again,Jennifer Lopez,Pop,2012,128,86,79,10,71,237,2,66
+Turn Up the Music,Chris Brown,Pop,2012,130,84,59,16,64,228,0,65
+Lights - Single Version,Ellie Goulding,Pop,2012,120,80,68,13,78,211,3,65
+We Are Young (feat. Janelle Monáe),fun.,Pop,2012,184,64,38,8,74,251,2,63
+Diamonds,Rihanna,Pop,2012,92,71,56,11,39,225,0,61
+Don't Stop the Party (feat. TJR),Pitbull,Pop,2012,127,96,72,38,95,206,1,59
+You Da One,Rihanna,Pop,2012,127,72,70,13,86,200,50,57
+Stereo Hearts (feat. Adam Levine),Gym Class Heroes,Pop,2012,90,80,65,27,80,211,3,54
+It Will Rain,Bruno Mars,Pop,2012,150,84,58,8,48,258,34,38
+Underneath the Tree,Kelly Clarkson,Pop,2013,160,81,51,21,69,230,0,88
+Wake Me Up,Avicii,Big Room,2013,124,78,53,16,64,247,0,85
+Story of My Life,One Direction,Boy Band,2013,121,66,60,12,29,245,23,81
+Just Give Me a Reason (feat. Nate Ruess),P!nk,Pop,2013,95,55,78,13,44,243,35,81
+Roar,Katy Perry,Pop,2013,180,77,55,35,46,224,0,78
+We Can't Stop,Miley Cyrus,Pop,2013,80,62,61,37,48,231,1,78
+Don't You Worry Child - Radio Edit,Swedish House Mafia,Big Room,2013,129,84,61,12,44,213,11,78
+Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Daft Punk,Electronic,2013,116,81,79,10,86,248,4,77
+Wrecking Ball,Miley Cyrus,Pop,2013,120,42,53,11,35,221,41,77
+Impossible,James Arthur,Pop,2013,170,70,38,11,30,209,14,77
+Blurred Lines,Robin Thicke,Pop,2013,120,60,85,8,84,264,0,76
+Heart Attack,Demi Lovato,Pop,2013,174,79,50,24,50,211,7,76
+Die Young,Kesha,Pop,2013,128,70,71,22,80,212,0,75
+Clarity,Zedd,Complextro,2013,128,78,51,7,18,271,4,75
+Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Lana Del Rey,Pop,2013,126,81,57,13,11,215,2,74
+Under Control,Calvin Harris,Pop,2013,126,92,54,12,51,184,13,74
+Everybody Talks,Neon Trees,Pop,2013,155,92,47,31,73,177,0,74
+"Hold On, We're Going Home",Drake,Hip-Hop,2013,100,41,77,7,29,228,0,73
+Best Song Ever,One Direction,Boy Band,2013,118,88,65,8,49,200,2,73
+Kiss You,One Direction,Boy Band,2013,90,93,63,32,91,183,2,73
+Sweet Nothing (feat. Florence Welch),Calvin Harris,Pop,2013,128,93,57,6,58,213,20,72
+Lose Yourself to Dance,Daft Punk,Electronic,2013,100,66,83,8,67,354,8,72
+Work Bitch,Britney Spears,Pop,2013,128,82,63,7,85,248,16,71
+Brave,Sara Bareilles,Pop,2013,185,84,55,4,76,221,1,71
+Can't Hold Us (feat. Ray Dalton),Macklemore & Ryan Lewis,Pop,2013,146,93,63,10,88,258,3,70
+Feel This Moment (feat. Christina Aguilera),Pitbull,Pop,2013,136,76,67,34,54,230,4,70
+Beneath Your Beautiful,Labrinth,Pop,2013,84,52,56,10,23,272,23,70
+Let Me Love You (Until You Learn To Love Yourself),Ne-Yo,Pop,2013,125,68,66,37,25,252,25,70
+Thrift Shop (feat. Wanz),Macklemore & Ryan Lewis,Pop,2013,95,53,78,5,66,236,6,69
+If I Lose Myself - Alesso vs OneRepublic,OneRepublic,Pop,2013,126,75,52,14,16,215,26,69
+The Way,Ariana Grande,Pop,2013,82,88,65,8,86,227,29,68
+Suit & Tie,Justin Timberlake,Pop,2013,102,60,80,16,36,326,10,68
+#thatPOWER,will.i.am,Pop,2013,128,61,80,7,40,280,0,68
+I Love It (feat. Charli XCX),Icona Pop,Pop,2013,126,91,71,15,82,157,1,67
+Play Hard (feat. Ne-Yo & Akon) - New Edit,David Guetta,Pop,2013,130,87,72,66,68,209,4,67
+Daylight,Maroon 5,Pop,2013,120,67,66,26,37,225,0,66
+Love Somebody,Maroon 5,Pop,2013,120,78,68,12,40,230,13,65
+A Little Party Never Killed Nobody (All We Got),Fergie,Pop,2013,130,62,76,9,52,241,1,65
+Move,Little Mix,Pop,2013,121,74,85,55,77,224,0,63
+Walks Like Rihanna,The Wanted,Boy Band,2013,126,82,56,10,43,202,1,62
+Rock N Roll,Avril Lavigne,Pop,2013,184,96,47,34,67,207,1,61
+Heartbreaker,Justin Bieber,Pop,2013,105,52,56,34,58,263,14,61
+Mirrors - Radio Edit,Justin Timberlake,Pop,2013,77,60,58,43,65,277,14,60
+Next To Me,Emeli Sandé,Pop,2013,95,80,67,11,35,197,9,60
+Made In The USA,Demi Lovato,Pop,2013,87,86,58,32,59,196,0,60
+Clown,Emeli Sandé,Pop,2013,130,23,45,11,23,221,92,60
+Girl On Fire (feat. Nicki Minaj) - Inferno Version,Alicia Keys,Pop,2013,93,81,55,15,34,271,9,59
+TKO,Justin Timberlake,Pop,2013,138,68,61,43,49,424,1,58
+Come & Get It,Selena Gomez,Pop,2013,80,79,55,10,58,232,1,57
+Live It Up,Jennifer Lopez,Pop,2013,128,73,69,33,65,244,1,57
+We Own The Night,The Wanted,Boy Band,2013,104,94,55,23,56,206,1,56
+Atlas - From “The Hunger Games: Catching Fire” Soundtrack,Coldplay,Permanent Wave,2013,136,45,28,11,11,236,63,55
+What About Love,Austin Mahone,Pop,2013,100,78,63,4,28,203,0,54
+Take Back the Night,Justin Timberlake,Pop,2013,107,66,59,64,33,353,4,54
+Applause,Lady Gaga,Pop,2013,140,78,67,11,73,212,3,52
+Anything Could Happen,Ellie Goulding,Pop,2013,103,78,70,14,38,286,43,52
+Finally Found You,Enrique Iglesias,Pop,2013,128,88,62,35,66,221,1,52
+Pom Poms,Jonas Brothers,Boy Band,2013,148,98,68,28,90,198,7,52
+#Beautiful,Mariah Carey,Pop,2013,107,76,68,31,45,200,29,51
+How Ya Doin'? (feat. Missy Elliott),Little Mix,Pop,2013,201,95,36,37,51,211,9,50
+Crazy Kids (feat. will.i.am),Kesha,Pop,2013,128,75,72,13,50,229,4,46
+"Ooh La La (from ""The Smurfs 2"")",Britney Spears,Pop,2013,128,57,69,11,73,257,2,45
+People Like Us,Kelly Clarkson,Pop,2013,128,79,60,36,61,259,4,45
+Overdose,Ciara,Pop,2013,107,70,77,6,79,227,1,43
+Right Now - Dyro Radio Edit,Rihanna,Pop,2013,130,74,53,24,45,186,0,42
+Give It 2 U,Robin Thicke,Pop,2013,127,83,67,16,58,230,10,41
+Outta Nowhere (feat. Danny Mercer),Pitbull,Pop,2013,95,84,71,21,66,207,16,35
+Freak,Kelly Rowland,Hip-Hop,2013,104,78,65,12,45,274,13,28
+All of Me,John Legend,Neo Mellow,2014,120,26,42,13,33,270,92,86
+Stay With Me,Sam Smith,Pop,2014,84,42,42,11,18,173,59,85
+Summer,Calvin Harris,Pop,2014,128,86,60,14,74,223,2,80
+"Happy - From ""Despicable Me 2""",Pharrell Williams,Pop,2014,160,82,65,9,96,233,22,79
+Rude,MAGIC!,Pop,2014,144,76,77,31,93,225,4,79
+Shake It Off,Taylor Swift,Pop,2014,160,80,65,33,94,219,6,78
+Dark Horse,Katy Perry,Pop,2014,132,59,65,17,35,216,0,78
+Hey Brother,Avicii,Big Room,2014,125,78,55,8,46,255,3,78
+Maps,Maroon 5,Pop,2014,120,71,74,6,88,190,2,78
+Treasure,Bruno Mars,Pop,2014,116,69,87,32,94,179,4,77
+Let Her Go,Passenger,Pop,2014,75,54,51,10,24,253,39,77
+Problem,Ariana Grande,Pop,2014,103,81,66,16,63,194,2,75
+Team,Lorde,Pop,2014,100,58,69,31,42,193,17,73
+Love Me Again,John Newman,Pop,2014,126,89,50,10,21,240,0,73
+Adore You,Miley Cyrus,Pop,2014,120,66,58,11,20,279,11,72
+Love Never Felt So Good,Michael Jackson,Pop,2014,118,72,78,7,71,246,13,71
+Burn,Ellie Goulding,Pop,2014,87,78,56,11,33,231,31,71
+She Looks So Perfect,5 Seconds of Summer,Boy Band,2014,160,95,49,33,44,202,0,71
+Fancy,Iggy Azalea,Hip-Hop,2014,95,72,91,5,38,200,9,70
+Talk Dirty (feat. 2 Chainz),Jason Derulo,Pop,2014,100,65,76,31,76,178,3,68
+Gorilla,Bruno Mars,Pop,2014,140,54,72,10,64,244,45,68
+human,Christina Perri,Pop,2014,144,49,44,11,25,251,13,68
+Young Girls,Bruno Mars,Pop,2014,126,75,56,21,50,229,46,67
+Wiggle (feat. Snoop Dogg),Jason Derulo,Pop,2014,82,62,70,16,72,193,8,67
+Love Runs Out,OneRepublic,Pop,2014,120,93,72,8,74,225,17,66
+This Is How We Do,Katy Perry,Pop,2014,96,64,69,15,80,204,2,66
+Mmm Yeah (feat. Pitbull),Austin Mahone,Pop,2014,126,92,71,27,98,232,0,65
+#SELFIE,The Chainsmokers,Electronic,2014,128,92,79,8,66,184,1,65
+Partition,Beyoncé,Pop,2014,186,44,41,31,17,319,3,65
+Birthday,Katy Perry,Pop,2014,126,67,72,11,84,215,9,65
+G.U.Y.,Lady Gaga,Pop,2014,110,92,62,12,57,233,1,65
+Stay The Night - Featuring Hayley Williams Of Paramore,Zedd,Complextro,2014,128,74,60,9,46,217,11,64
+"Let It Go - From ""Frozen / Single Version",Demi Lovato,Pop,2014,140,66,50,27,25,226,3,63
+Wings,Birdy,Neo Mellow,2014,83,71,47,16,22,252,8,62
+Can't Remember to Forget You (feat. Rihanna),Shakira,Pop,2014,138,81,69,14,82,207,12,62
+Shot Me Down (feat. Skylar Grey) - Radio Edit,David Guetta,Pop,2014,192,77,35,12,4,191,6,61
+Say Something,A Great Big World,Neo Mellow,2014,138,15,45,9,9,229,87,61
+A Sky Full of Stars,Coldplay,Permanent Wave,2014,125,68,55,21,16,268,1,60
+Come Get It Bae,Pharrell Williams,Pop,2014,120,80,93,10,90,202,27,59
+Chandelier,Sia,Australian Dance,2014,174,78,29,7,62,216,2,56
+XO,Beyoncé,Pop,2014,170,79,47,31,21,216,17,56
+We Are One (Ole Ola) [The Official 2014 FIFA World Cup Song],Pitbull,Pop,2014,125,94,60,10,55,222,0,56
+Not About Angels,Birdy,Neo Mellow,2014,116,14,41,9,23,190,97,56
+Drunk in Love,Beyoncé,Pop,2014,140,62,59,18,40,323,1,52
+Anaconda,Nicki Minaj,Pop,2014,130,60,96,21,65,260,7,50
+Boom Clap - From the Motion Picture Das Schicksal ist ein mieser Verräter,Charli XCX,Pop,2014,92,81,68,34,64,169,7,50
+La La La (Brasil 2014) (feat. Carlinhos Brown),Shakira,Pop,2014,128,82,80,35,61,198,18,50
+Tee Shirt - Soundtrack Version,Birdy,Neo Mellow,2014,76,34,68,9,56,160,84,49
+Words as Weapons,Birdy,Neo Mellow,2014,120,35,53,14,19,239,28,44
+You're Mine (Eternal),Mariah Carey,Pop,2014,149,58,63,38,56,224,28,38
+Sheezus,Lily Allen,Pop,2014,130,50,78,11,39,235,15,37
+It's On Again - Main Soundtrack,Alicia Keys,Pop,2014,110,54,64,25,53,230,10,30
+I Luh Ya Papi,Jennifer Lopez,Pop,2014,96,73,74,12,59,207,45,28
+Thinking out Loud,Ed Sheeran,Pop,2015,79,45,78,18,59,282,47,84
+I'm Not The Only One,Sam Smith,Pop,2015,82,49,68,8,49,239,53,84
+The Hills,The Weeknd,R&B,2015,113,56,58,14,14,242,7,84
+Love Yourself,Justin Bieber,Pop,2015,100,38,61,28,52,234,84,83
+Uptown Funk,Mark Ronson,Pop,2015,115,61,86,3,93,270,1,82
+Sugar,Maroon 5,Pop,2015,120,79,75,9,88,235,6,81
+Sorry,Justin Bieber,Pop,2015,100,76,65,30,41,201,8,81
+FourFiveSeconds,Rihanna,Pop,2015,206,27,58,13,35,188,88,80
+"Love Me Like You Do - From ""Fifty Shades Of Grey""",Ellie Goulding,Pop,2015,190,61,26,13,28,253,25,79
+"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack",The Weeknd,R&B,2015,120,38,66,10,44,252,39,79
+What Do You Mean?,Justin Bieber,Pop,2015,125,57,85,8,79,206,59,79
+Stitches,Shawn Mendes,Pop,2015,150,75,75,5,76,207,2,78
+Want to Want Me,Jason Derulo,Pop,2015,114,68,78,11,66,208,1,77
+My House,Flo Rida,Pop,2015,94,70,69,13,74,192,2,77
+Night Changes,One Direction,Boy Band,2015,120,52,67,12,37,227,86,77
+How Deep Is Your Love,Calvin Harris,Pop,2015,122,87,74,39,34,213,4,77
+Never Forget You,Zara Larsson,Pop,2015,146,73,58,27,28,213,0,77
+Love Me Harder,Ariana Grande,Pop,2015,99,71,47,8,24,236,1,76
+Animals,Maroon 5,Pop,2015,190,74,28,59,33,231,0,76
+Blame,Calvin Harris,Pop,2015,128,86,41,34,35,213,3,76
+Worth It,Fifth Harmony,Pop,2015,100,77,88,12,59,225,6,75
+Break Free,Ariana Grande,Pop,2015,130,70,69,20,28,215,1,75
+Don't,Ed Sheeran,Pop,2015,95,61,81,64,85,220,1,74
+Elastic Heart,Sia,Australian Dance,2015,130,79,42,15,50,257,1,73
+Rather Be (feat. Jess Glynne),Clean Bandit,Pop,2015,121,59,80,19,55,228,16,73
+Hello,Adele,British Soul,2015,158,45,48,9,29,295,34,73
+Dear Future Husband,Meghan Trainor,Pop,2015,79,78,66,32,83,184,38,72
+The Heart Wants What It Wants,Selena Gomez,Pop,2015,83,79,62,14,62,227,5,72
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,Pop,2015,86,73,60,33,53,193,24,72
+Genie In a Bottle,Christina Aguilera,Pop,2015,176,80,63,14,91,218,21,72
+Company,Justin Bieber,Pop,2015,95,80,59,8,43,208,13,72
+Sing,Ed Sheeran,Pop,2015,120,67,82,6,94,235,30,71
+Jealous - Remix,Nick Jonas,Pop,2015,93,71,68,44,45,222,1,70
+Really Don't Care,Demi Lovato,Pop,2015,121,73,71,19,85,202,12,70
+"Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",Macklemore & Ryan Lewis,Pop,2015,110,61,83,29,71,293,9,70
+Only Love Can Hurt Like This,Paloma Faith,British Soul,2015,91,89,57,33,31,233,10,69
+Heartbeat Song,Kelly Clarkson,Pop,2015,149,80,49,6,48,199,1,69
+Up,Olly Murs,Pop,2015,115,85,69,10,64,224,2,69
+Trumpets,Jason Derulo,Pop,2015,82,70,63,10,64,217,56,69
+Same Old Love,Selena Gomez,Pop,2015,98,59,67,21,44,229,2,69
+I Want You To Know,Zedd,Complextro,2015,130,85,58,14,37,240,1,68
+Lips Are Movin,Meghan Trainor,Pop,2015,139,83,78,11,95,183,5,68
+I'll Show You,Justin Bieber,Pop,2015,192,61,36,18,8,200,5,68
+Here,Alessia Cara,R&B,2015,120,82,38,8,33,199,8,68
+I Lived,OneRepublic,Pop,2015,120,85,59,27,34,235,7,67
+Fireball (feat. John Ryan),Pitbull,Pop,2015,123,94,69,5,79,235,9,67
+Easy Love,Sigala,Pop,2015,124,94,68,12,65,230,18,67
+The Feeling,Justin Bieber,Pop,2015,127,81,53,10,21,245,8,67
+I Really Like You,Carly Rae Jepsen,Pop,2015,122,81,62,22,60,205,1,66
+BO$$,Fifth Harmony,Pop,2015,103,87,81,5,74,171,1,66
+Focus,Ariana Grande,Pop,2015,100,88,67,44,79,211,27,66
+All About That Bass,Meghan Trainor,Pop,2015,134,88,81,11,96,189,5,65
+On My Mind,Ellie Goulding,Pop,2015,155,71,70,9,74,213,26,65
+Love Me Like You,Little Mix,Pop,2015,106,67,79,28,85,198,21,65
+Broken Arrows,Avicii,Big Room,2015,116,67,63,10,29,233,5,65
+Booty,Jennifer Lopez,Pop,2015,129,95,71,26,40,210,0,64
+What Do You Mean? - Acoustic,Justin Bieber,Pop,2015,125,36,77,10,76,204,79,64
+Mark My Words,Justin Bieber,Pop,2015,114,26,38,17,52,134,88,63
+Lay It All on Me,Rudimental,Pop,2015,123,75,67,19,48,242,14,62
+American Oxygen,Rihanna,Pop,2015,78,75,39,33,48,320,5,61
+Bang Bang,Jessie J,Pop,2015,150,75,71,38,73,199,27,61
+Reality - Radio Edit,Lost Frequencies,Electronic,2015,122,70,71,7,60,159,2,61
+Alive,Sia,Australian Dance,2015,100,76,51,11,44,264,25,61
+Sugar (feat. Francesco Yates),Robin Schulz,Pop,2015,123,82,64,16,64,219,2,60
+Been You,Justin Bieber,Pop,2015,113,78,74,32,86,199,2,60
+Prayer in C - Robin Schulz Radio Edit,Lilly Wood and The Prick,Pop,2015,123,89,76,62,78,189,2,58
+See You Again (feat. Charlie Puth),Wiz Khalifa,Hip-Hop,2015,80,48,69,6,28,230,37,56
+Heroes (we could be),Alesso,Big Room,2015,126,75,52,24,35,210,4,56
+"Feel The Light - From The ""Home"" Soundtrack",Jennifer Lopez,Pop,2015,156,60,47,9,4,292,33,55
+Perfect,One Direction,Boy Band,2015,100,82,65,12,40,230,6,55
+Ghosttown,Madonna,Pop,2015,79,55,54,12,9,250,4,54
+Bang My Head (feat. Sia & Fetty Wap),David Guetta,Pop,2015,108,87,60,10,59,193,5,54
+Bloodstream,Ed Sheeran,Pop,2015,89,59,48,6,27,309,20,52
+Living For Love,Madonna,Pop,2015,123,79,67,25,39,219,4,52
+Baby Don't Lie,Gwen Stefani,Pop,2015,100,55,69,10,26,203,1,52
+Don't Be so Hard on Yourself,Jess Glynne,Pop,2015,120,82,57,16,66,211,6,52
+Steal My Girl,One Direction,Boy Band,2015,77,76,47,14,52,227,0,51
+"Celebrate (From the Original Motion Picture ""Penguins of Madagascar"")",Pitbull,Pop,2015,127,85,68,6,93,193,1,50
+We Are Here,Alicia Keys,Pop,2015,93,67,64,8,8,285,43,49
+St Jude,Florence + The Machine,Pop,2015,117,43,26,11,9,225,75,47
+Yesterday (feat. Bebe Rexha),David Guetta,Pop,2015,128,78,57,33,28,243,2,46
+Time of Our Lives,Pitbull,Pop,2015,124,80,72,69,72,229,9,45
+Sparks,Hilary Duff,Pop,2015,122,88,85,10,79,186,4,44
+Mr. Put It Down,Ricky Martin,Pop,2015,128,78,80,4,83,196,1,42
+Legendary Lovers,Katy Perry,Pop,2015,126,84,62,8,39,224,2,41
+Spark The Fire,Gwen Stefani,Pop,2015,120,80,88,20,54,202,8,39
+Run Run Run,Kelly Clarkson,Pop,2015,112,37,28,11,8,273,45,36
+Let Me Be Your Lover,Enrique Iglesias,Pop,2015,112,90,72,6,88,238,1,34
+Dangerous,Jennifer Hudson,Pop,2015,109,53,90,8,65,255,0,18
+Cake By The Ocean,DNCE,Pop,2016,119,75,77,4,90,219,15,81
+Don't Let Me Down,The Chainsmokers,Electronic,2016,160,87,53,14,42,208,16,81
+In the Name of Love,Martin Garrix,Big Room,2016,134,52,50,45,17,196,11,81
+Into You,Ariana Grande,Pop,2016,108,73,62,14,37,244,2,80
+This Is What You Came For,Calvin Harris,Pop,2016,124,93,63,15,47,222,20,80
+Million Reasons,Lady Gaga,Pop,2016,130,42,67,11,15,205,49,80
+Needed Me,Rihanna,Pop,2016,111,31,67,8,30,192,11,80
+7 Years,Lukas Graham,Pop,2016,120,47,77,39,34,237,29,80
+"CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's ""TROLLS"")",Justin Timberlake,Pop,2016,113,83,67,19,70,236,1,79
+Work from Home (feat. Ty Dolla $ign),Fifth Harmony,Pop,2016,105,59,80,6,59,214,10,79
+Scars To Your Beautiful,Alessia Cara,R&B,2016,97,74,57,11,45,230,3,79
+Like I'm Gonna Lose You (feat. John Legend),Meghan Trainor,Pop,2016,108,53,63,18,42,225,40,79
+Work,Rihanna,Pop,2016,92,53,73,9,56,219,8,78
+"Me, Myself & I",G-Eazy,Hip-Hop,2016,112,67,76,16,38,251,2,78
+I Took A Pill In Ibiza - Seeb Remix,Mike Posner,Pop,2016,102,71,66,8,69,198,4,78
+Dangerous Woman,Ariana Grande,Pop,2016,134,60,66,36,29,236,5,78
+Starving,Hailee Steinfeld,Pop,2016,100,62,73,11,51,182,38,78
+Shout Out to My Ex,Little Mix,Pop,2016,126,75,77,11,80,246,2,77
+Electric Love,BØRNS,Electronic,2016,120,80,61,26,52,218,1,76
+Confident,Demi Lovato,Pop,2016,130,75,59,9,34,206,0,75
+Too Good,Drake,Hip-Hop,2016,118,65,79,10,39,263,5,74
+Roses,The Chainsmokers,Electronic,2016,100,80,71,31,34,227,4,74
+Cold Water (feat. Justin Bieber & MØ),Major Lazer,Pop,2016,93,80,61,16,50,185,7,73
+Me Too,Meghan Trainor,Pop,2016,124,69,93,48,84,181,10,73
+Light It Up (feat. Nyla & Fuse ODG) [Remix],Major Lazer,Pop,2016,108,88,75,23,75,166,4,73
+Ain't Your Mama,Jennifer Lopez,Pop,2016,120,68,76,7,82,218,5,72
+Close,Nick Jonas,Pop,2016,124,62,65,14,40,234,25,72
+Toothbrush,DNCE,Pop,2016,105,79,55,47,82,232,12,72
+All We Know,The Chainsmokers,Electronic,2016,90,59,66,12,30,194,10,72
+Final Song,MØ,Pop,2016,105,67,70,8,25,236,1,72
+Hands To Myself,Selena Gomez,Pop,2016,111,50,81,34,47,201,1,71
+All I Ask,Adele,British Soul,2016,142,28,59,15,34,272,88,71
+"Just Like Fire (From the Original Motion Picture ""Alice Through The Looking Glass"")",P!nk,Pop,2016,163,70,63,11,50,215,1,71
+NO,Meghan Trainor,Pop,2016,92,80,56,74,65,214,1,70
+Kill Em With Kindness,Selena Gomez,Pop,2016,120,88,76,10,40,218,1,70
+Cool Girl,Tove Lo,Pop,2016,102,69,67,8,20,199,31,69
+Perfect Illusion,Lady Gaga,Pop,2016,125,86,61,36,66,182,0,67
+PILLOWTALK,ZAYN,Pop,2016,125,70,59,9,43,204,10,66
+Out Of The Woods,Taylor Swift,Pop,2016,92,84,55,34,34,236,0,66
+Rise,Katy Perry,Pop,2016,101,64,55,11,44,203,5,66
+Wherever I Go,OneRepublic,Pop,2016,100,69,55,27,35,170,9,66
+Body Say,Demi Lovato,Pop,2016,87,74,63,28,26,194,0,65
+Don't Be A Fool,Shawn Mendes,Pop,2016,175,34,47,10,27,216,60,65
+LIKE I WOULD,ZAYN,Pop,2016,113,83,56,26,23,192,2,65
+Cheap Thrills,Sia,Australian Dance,2016,90,80,59,8,73,225,6,64
+I Got You,Bebe Rexha,Pop,2016,98,89,61,9,32,192,5,64
+Run Away With Me,Carly Rae Jepsen,Pop,2016,119,72,56,5,25,251,1,63
+Cruel (feat. ZAYN),Snakehips,Pop,2016,110,88,60,16,32,228,2,63
+Send My Love (To Your New Lover),Adele,British Soul,2016,164,52,69,17,56,223,4,61
+WTF (Where They From),Missy Elliott,Pop,2016,120,82,93,6,56,193,2,58
+Desire,Years & Years,Pop,2016,126,78,71,30,64,203,30,58
+When We Were Young,Adele,British Soul,2016,144,59,38,9,27,291,35,58
+I Know What You Did Last Summer,Shawn Mendes,Pop,2016,114,77,68,16,72,224,11,57
+Wish That You Were Here - From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture,Florence + The Machine, Pop,2016,94,57,37,13,12,403,72,57
+Hurts,Emeli Sandé,Pop,2016,106,64,58,15,18,238,2,57
+Change,Christina Aguilera,Pop,2016,82,54,62,13,20,187,68,54
+Make Me... (feat. G-Eazy),Britney Spears,Pop,2016,123,70,70,22,58,231,16,53
+Keeping Your Head Up,Birdy,Neo Mellow,2016,122,78,60,19,53,208,16,52
+True Colors,Zedd,Complextro,2016,126,79,57,10,49,225,40,51
+Make Me Like You,Gwen Stefani,Pop,2016,118,71,74,13,80,217,4,50
+Champagne Problems,Nick Jonas,Pop,2016,108,78,73,9,64,193,0,50
+Blown,DNCE,Pop,2016,130,95,63,10,73,197,0,48
+Start,John Legend,Neo Mellow,2016,110,4,52,9,26,310,99,47
+Pep Rally,Missy Elliott,Pop,2016,90,75,83,20,32,263,22,47
+Higher,Carly Rae Jepsen,Pop,2016,114,87,65,37,44,234,1,46
+Invitation,Britney Spears,Pop,2016,112,65,37,9,16,200,3,44
+One Call Away (feat. Tyga) - Remix,Charlie Puth,Pop,2016,91,69,75,13,52,192,26,41
+Beautiful Birds (feat. Birdy),Passenger,Pop,2016,86,17,39,11,14,214,91,36
+Little Lies,Hilary Duff,Pop,2016,124,76,57,4,40,204,0,36
+Do You Wanna Come Over?,Britney Spears,Pop,2016,121,70,75,11,45,203,1,34
+BURNITUP!,Janet Jackson,Pop,2016,123,71,83,31,83,250,5,31
+Picky - Remix,Joey Montana,Latin,2016,186,81,70,37,69,225,9,29
+Behind Your Back,Nelly Furtado,Latin,2016,98,47,80,7,69,228,25,18
+Shape of You,Ed Sheeran,Pop,2017,96,65,83,9,93,234,58,87
+Closer,The Chainsmokers,Electronic,2017,95,52,75,11,66,245,41,86
+Starboy,The Weeknd,R&B,2017,186,59,68,14,49,230,14,85
+Treat You Better,Shawn Mendes,Pop,2017,83,82,44,11,75,188,11,84
+That's What I Like,Bruno Mars,Pop,2017,134,56,85,9,86,207,1,83
+Let Me Love You,DJ Snake,Electronic,2017,100,72,65,14,16,206,9,82
+I Feel It Coming,The Weeknd,R&B,2017,93,82,77,7,59,269,43,81
+Mercy,Shawn Mendes,Pop,2017,148,66,56,11,36,209,13,81
+Side To Side,Ariana Grande,Pop,2017,159,74,65,24,61,226,5,80
+Stay,Zedd,Complextro,2017,102,62,69,12,54,210,25,80
+It Ain't Me (with Selena Gomez),Kygo,Electronic,2017,100,53,64,9,52,221,12,79
+Malibu,Miley Cyrus,Pop,2017,140,78,57,8,34,232,8,78
+Something Just Like This,The Chainsmokers,Electronic,2017,103,65,61,17,51,248,3,78
+Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,Pop,2017,102,76,72,18,74,251,41,78
+I Don’t Wanna Live Forever (Fifty Shades Darker),ZAYN,Pop,2017,118,45,74,33,9,245,6,78
+My Way,Calvin Harris,Pop,2017,120,91,82,16,54,219,9,78
+"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",DJ Khaled,Pop,2017,81,67,61,17,81,289,6,77
+Praying,Kesha,Pop,2017,73,39,58,11,32,230,49,77
+Despacito - Remix,Luis Fonsi,Latin,2017,178,82,65,10,82,229,23,76
+The Greatest,Sia,Australian Dance,2017,192,73,67,6,73,210,1,76
+There for You,Martin Garrix,Big Room,2017,106,64,61,12,13,222,12,76
+Paris,The Chainsmokers,Electronic,2017,100,64,65,9,25,222,2,76
+Crying in the Club,Camila Cabello,Pop,2017,85,62,33,16,60,216,33,75
+Mama,Jonas Blue,Pop,2017,104,79,74,5,57,184,10,75
+Slide (feat. Frank Ocean & Migos),Calvin Harris,Pop,2017,104,80,74,25,51,231,50,75
+Swish Swish,Katy Perry,Pop,2017,120,71,84,10,57,243,2,73
+Chained To The Rhythm,Katy Perry,Pop,2017,190,80,45,20,47,238,8,72
+Cold (feat. Future),Maroon 5,Pop,2017,100,72,69,5,41,234,14,72
+Love,Lana Del Rey,Pop,2017,99,37,53,11,23,273,49,72
+Reggaetón Lento (Remix),CNCO,Boy Band,2017,94,91,53,10,62,189,15,71
+First Time,Kygo,Electronic,2017,90,59,63,10,68,194,20,71
+The Cure,Lady Gaga,Pop,2017,100,51,70,9,52,211,8,71
+"How Far I'll Go - From ""Moana""",Alessia Cara,R&B,2017,181,54,31,7,16,176,16,71
+Bodak Yellow,Cardi B,Pop,2017,125,72,93,35,46,224,7,70
+Rich Love (with Seeb),OneRepublic,Pop,2017,105,87,40,36,47,201,17,70
+Tired,Alan Walker,Electronic,2017,124,88,69,15,49,192,4,70
+Came Here for Love,Sigala,Pop,2017,125,87,71,12,72,203,3,70
+24K Magic,Bruno Mars,Pop,2017,107,80,82,15,63,226,3,69
+Strip That Down (feat. Quavo),Liam Payne,Pop,2017,106,50,87,8,55,202,20,69
+Cut To The Feeling,Carly Rae Jepsen,Pop,2017,115,91,71,30,65,208,1,69
+OK - Spotify Version,Robin Schulz,Pop,2017,122,81,65,13,58,189,12,69
+Bon appétit,Katy Perry,Pop,2017,106,79,80,22,52,228,13,68
+Summer Bummer (feat. A$AP Rocky & Playboi Carti),Lana Del Rey,Pop,2017,135,57,76,20,14,261,2,67
+Get Low (with Liam Payne),Zedd,Complextro,2017,108,93,72,5,54,205,3,66
+Kissing Strangers,DNCE,Pop,2017,120,74,77,9,86,202,5,66
+Slow Hands,Niall Horan,Pop,2017,86,42,74,6,85,188,1,64
+Younger Now,Miley Cyrus,Pop,2017,122,87,55,14,33,249,0,62
+Body Moves,DNCE,Pop,2017,102,69,65,4,86,236,0,62
+Reality (feat. Janieck Devy) - Radio Edit,Lost Frequencies,Electronic,2017,122,64,73,8,53,158,2,59
+Angel,Fifth Harmony,Pop,2017,124,53,74,35,13,189,0,59
+Touch (feat. Kid Ink),Little Mix,Pop,2017,102,75,64,49,53,203,4,59
+We Don't Talk Anymore - DROELOE Remix,Charlie Puth,Pop,2017,100,82,70,45,67,218,49,59
+No Vacancy (with Sebastián Yatra),OneRepublic,Pop,2017,100,76,69,14,59,223,8,57
+Rich Boy,Galantis,Big Room,2017,110,90,74,8,65,184,7,55
+Lust for Life (with The Weeknd),Lana Del Rey,Pop,2017,100,67,51,36,27,264,58,54
+Greenlight (feat. Flo Rida & LunchMoney Lewis),Pitbull,Pop,2017,115,83,70,36,63,245,28,54
+Influence,Tove Lo,Pop,2017,105,59,77,11,33,225,10,54
+Remember I Told You,Nick Jonas,Pop,2017,113,53,68,4,84,202,14,53
+Messin' Around,Pitbull,Pop,2017,158,81,57,4,78,223,2,51
+Water Under the Bridge,Adele,British Soul,2017,95,84,60,11,47,240,2,49
+Free Me,Sia,Australian Dance,2017,87,46,27,14,21,286,85,44
+Kissing Strangers - Remix,DNCE,Pop,2017,120,77,76,8,81,202,8,43
+A L I E N S,Coldplay,Permanent Wave,2017,148,88,43,21,25,282,0,41
+One Kiss (with Dua Lipa),Calvin Harris,Pop,2018,124,86,79,8,59,215,4,86
+Havana (feat. Young Thug),Camila Cabello,Pop,2018,105,52,77,13,39,217,18,85
+I Like It,Cardi B,Pop,2018,136,73,82,37,65,253,10,85
+New Rules,Dua Lipa,Dance Pop,2018,116,70,76,15,61,209,0,84
+There's Nothing Holdin' Me Back,Shawn Mendes,Pop,2018,122,81,87,8,97,199,38,84
+no tears left to cry,Ariana Grande,Pop,2018,122,71,70,29,35,206,4,84
+IDGAF,Dua Lipa,Pop,2018,97,54,84,8,51,218,4,84
+In My Blood,Shawn Mendes,Pop,2018,140,71,62,13,49,211,6,83
+Wolves,Selena Gomez,Pop,2018,125,80,72,20,31,198,12,83
+Dusk Till Dawn - Radio Edit,ZAYN,Pop,2018,180,44,26,11,10,239,10,83
+Attention,Charlie Puth,Pop,2018,100,61,78,13,80,209,11,83
+Electricity (with Dua Lipa),Silk City,Electronic,2018,118,67,59,34,51,238,1,82
+Love On The Brain,Rihanna,Pop,2018,172,64,51,8,38,224,7,82
+"Let Me Go (with Alesso, Florida Georgia Line & watt)",Hailee Steinfeld,Pop,2018,103,71,66,8,74,175,3,82
+Sorry Not Sorry,Demi Lovato,Pop,2018,144,64,71,26,89,204,2,81
+Shallow - Radio Edit,Lady Gaga,Pop,2018,96,33,57,9,28,217,42,80
+These Days,Rudimental,Pop,2018,92,81,65,17,55,211,19,80
+What Lovers Do (feat. SZA),Maroon 5,Pop,2018,110,60,80,10,42,200,8,79
+Finesse - Remix; feat. Cardi B,Bruno Mars,Pop,2018,105,86,70,2,93,217,2,78
+Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,Pop,2018,95,30,59,12,36,260,78,78
+Bad At Love,Halsey,Pop,2018,118,75,68,9,61,181,6,78
+Him & I (with Halsey),G-Eazy,Hip-Hop,2018,88,73,59,31,19,269,5,78
+Friends (with BloodPop®),Justin Bieber,Canadian Pop,2018,105,73,74,30,62,189,0,77
+Wild Thoughts (feat. Rihanna & Bryson Tiller),DJ Khaled,Pop,2018,98,67,67,12,63,204,3,76
+My My My!,Troye Sivan,Pop,2018,103,46,70,5,48,205,0,76
+Capital Letters,Hailee Steinfeld,Pop,2018,100,81,66,5,46,219,3,76
+Sick Boy,The Chainsmokers,Electronic,2018,90,58,66,12,45,193,11,76
+Look What You Made Me Do,Taylor Swift,Pop,2018,128,71,77,13,51,212,20,75
+Youth (feat. Khalid),Shawn Mendes,Pop,2018,100,60,53,13,32,191,56,75
+Bad Liar,Selena Gomez,Pop,2018,121,41,97,8,73,215,19,75
+Anywhere,Rita Ora,Pop,2018,107,80,63,10,32,215,4,74
+Chun-Li,Nicki Minaj,Pop,2018,129,73,69,11,48,192,28,73
+Sign of the Times,Harry Styles,Pop,2018,120,57,52,11,21,341,3,72
+Familiar,Liam Payne,Pop,2018,93,81,64,8,91,197,2,72
+Let Me,ZAYN,Pop,2018,168,57,46,10,19,185,24,72
+Supernova,Ansel Elgort,Pop,2018,140,62,77,21,68,191,6,72
+Nervous,Shawn Mendes,Pop,2018,122,62,84,13,74,164,4,71
+End Game,Taylor Swift,Pop,2018,159,59,65,11,15,245,1,70
+Mi Gente (feat. Beyoncé),J Balvin,Latin,2018,105,72,76,23,47,210,2,68
+Lemon,N.E.R.D,Hip-Hop,2018,95,73,92,12,20,220,0,68
+For You (With Rita Ora),Liam Payne,Pop,2018,113,80,54,42,18,243,2,67
+Want To,Dua Lipa,Pop,2018,92,69,57,6,32,212,8,67
+What I Need (feat. Kehlani),Hayley Kiyoko,Pop,2018,104,79,63,16,41,220,5,67
+Wait,Maroon 5,Pop,2018,126,60,66,11,45,191,10,67
+What About Us,P!nk,Pop,2018,114,59,39,9,19,272,3,66
+2U (feat. Justin Bieber),David Guetta,Pop,2018,145,61,53,23,53,195,23,65
+Walk On Water (feat. Beyoncé),Eminem,Hip-Hop,2018,82,44,48,64,62,304,81,65
+This Town,Niall Horan,Pop,2018,112,41,68,12,20,233,70,64
+"Girls (feat. Cardi B, Bebe Rexha & Charli XCX)",Rita Ora,Pop,2018,94,69,73,10,42,221,2,64
+MOVE TO MIAMI,Enrique Iglesias,Pop,2018,100,87,76,7,90,169,3,64
+Filthy,Justin Timberlake,Pop,2018,97,58,75,25,65,294,4,62
+Never Be the Same - Radio Edit,Camila Cabello,Pop,2018,130,69,63,12,25,227,16,57
+Ferrari,Bebe Rexha,Pop,2018,77,48,58,10,42,213,2,57
+Supplies,Justin Timberlake,Pop,2018,120,55,79,13,23,226,1,57
+Boom Boom,RedOne,Pop,2018,110,76,75,20,58,248,0,53
+...Ready For It? - BloodPop® Remix,Taylor Swift,Pop,2018,160,84,58,10,50,190,13,52
+Drip (feat. Migos),Cardi B,Pop,2018,130,59,97,8,27,264,5,45
+Tell Me You Love Me - NOTD Remix,Demi Lovato,Pop,2018,102,77,58,9,76,182,5,44
+Memories,Maroon 5,Pop,2019,91,32,76,8,57,189,84,99
+Lose You To Love Me,Selena Gomez,Pop,2019,102,34,51,21,9,206,58,97
+Someone You Loved,Lewis Capaldi,Pop,2019,110,41,50,11,45,182,75,96
+Señorita,Shawn Mendes,Pop,2019,117,54,76,9,75,191,4,95
+How Do You Sleep?,Sam Smith,Pop,2019,111,68,48,8,35,202,15,93
+South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,Pop,2019,98,62,86,9,67,204,15,92
+Trampoline (with ZAYN),SHAED,Electronic,2019,127,46,62,14,50,184,56,92
+Higher Love,Kygo,Electronic,2019,104,68,69,10,40,228,2,88
+Only Human,Jonas Brothers,Boy Band,2019,94,50,80,6,87,183,11,87
+Beautiful People (feat. Khalid),Ed Sheeran,Pop,2019,93,65,64,8,55,198,12,86
+Sucker,Jonas Brothers,Boy Band,2019,138,73,84,11,95,181,4,86
+Don't Call Me Up,Mabel,Pop,2019,99,88,67,8,23,178,30,86
+I Don't Care (with Justin Bieber),Ed Sheeran,Pop,2019,102,68,80,9,84,220,9,85
+Talk (feat. Disclosure),Khalid,R&B,2019,136,40,90,6,35,198,5,84
+Giant (with Rag'n'Bone Man),Calvin Harris,Pop,2019,122,89,81,8,61,229,2,84
+Takeaway,The Chainsmokers,Electronic,2019,100,51,53,10,35,210,13,83
+All Around The World (La La La),R3HAB,Big Room,2019,125,86,73,11,52,148,48,82
+Girls Like You (feat. Cardi B),Maroon 5,Pop,2019,125,54,85,13,45,236,57,81
+Call You Mine,The Chainsmokers,Electronic,2019,104,70,59,34,52,218,20,81
+No Guidance (feat. Drake),Chris Brown,Pop,2019,93,45,70,16,14,261,12,81
+Antisocial (with Travis Scott),Ed Sheeran,Pop,2019,152,82,72,36,91,162,13,78
+"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",DJ Snake,Electronic,2019,96,80,84,6,62,213,16,77
+Con Calma - Remix,Daddy Yankee,Latin,2019,94,87,74,4,61,181,17,76
+Find U Again (feat. Camila Cabello),Mark Ronson,Pop,2019,104,66,61,20,16,176,1,75
+Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,Pop,2019,95,79,75,7,61,206,21,75
+"No Brainer (feat. Justin Bieber, Chance the Rapper & Quavo)",DJ Khaled,Pop,2019,136,76,53,9,65,260,7,70
+Nothing Breaks Like a Heart (feat. Miley Cyrus),Mark Ronson,Pop,2019,114,79,60,42,24,217,1,69
+Kills You Slowly,The Chainsmokers,Electronic,2019,150,44,70,13,23,213,6,67
