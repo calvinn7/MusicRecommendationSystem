@@ -2,15 +2,17 @@
 Music Recommendation System Using Ruler-Based Approach
 This is a music recommendation system created as part of an introduction to data science course. The system uses a content-based filtering approach to recommend music based on user interests and popularity.
 
-*Project Objectives*
+Project Objectives
 The main objectives of this project are to:
 
 Create a machine learning model that can recommend relevant music to users
 Provide a platform that suits listeners' profile in terms of music universe, content popularity, familiarity, new releases, appropriation cycle, diversity of genres, surprise, and continuation of past exploration
 Enhance user experiences by finding top matches that relate the best for a particular music
 Increase user loyalty and boost the popularity of the music recommendation system
+
 Dataset
 The dataset used in this project has undergone data preprocessing to ensure its suitability for the recommendation system.
+https://www.kaggle.com/datasets/leonardopena/top-spotify-songs-from-20102019-by-year
 
 Deployment of Data Products
 The music recommendation system has been deployed as a web-based application using the Shiny R package. The system includes a UI with several tabs, input fields for selecting songs, and output displays for recommended songs and data visualization.
@@ -33,3 +35,5 @@ The music recommendation system is a useful tool for enhancing user experiences 
 
 Link to website
 https://calvinjmy993.shinyapps.io/MusicRecommendationSystem/
+
+
