@@ -1,4 +1,4 @@
-# MusicRecommendationSystem
+# Music Recommendation System
 Music Recommendation System Using Ruler-Based Approach
 This is a music recommendation system created as part of an introduction to data science course. The system uses a content-based filtering approach to recommend music based on user interests and popularity. Explore the website [here](https://calvinjmy993.shinyapps.io/MusicRecommendationSystem/)
 
